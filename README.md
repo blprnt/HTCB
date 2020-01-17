@@ -40,7 +40,7 @@ Since we’re not using a percentage-based grading system, let me put it another
 (vi) I am 100% dedicated to a inclusive, harassment-free experience for everyone regardless of gender, race, sexual orientation, disability, appearance, or religion. I will not tolerate harassment of class participants in any form.
 
 
-## Section 1 - Public Data
+# Section 1 - Public Data
 What is public data? What kind of information is available and how can we access it? How can we start thinking critically about what data are made public, and what data are not?
 
 Readings, etc:
@@ -101,7 +101,7 @@ Class 4 - 2/19/19 - Field Trip
 
 Field Trip! We'll visit 2-3 public artworks in New York that put data into public space. We'll consider the multitude of design & commiunications considerations that ariste from making work which is physical, which exists in non-digital timescales, and which touches the quotidian experience of commuters, tourists, locals and passers-by.
 
-## Section 2: Data publics
+# Section 2: Data publics
 
 How does the experience of data change when it occurs in a public space? How can real-world interactions with data more deeply engage with individuals and communities and how might it foster more critical thinking about data, power, and consequences? How can siting projects in real places more meaningfully speak to the localness of data?
 
@@ -140,7 +140,7 @@ A Sort of Joy - Thousands of Exhausted Things - https://medium.com/memo-random/a
 Rivers, Rats and RNNs (Brian House) - https://vimeo.com/287093394
 
 
-## Section 3: Case Study - The Map Room
+# Section 3: Case Study - The Map Room
 
 In 2017, we turned the gymnasium of an abandoned school in St. Louis's North City and made it into a space for map-makign, data exploration, and dialogue. Since then, we've been workign to develop The Map Room as a wide-ranging platform to encourage social convening around data, and to critically question how people and communities are seen through data's lens. We'll introduce the project, and then run a map room of our own to see how it all works.
 
@@ -171,15 +171,13 @@ Class 10 - 4/8/19 - Data Liberation
 ### Resources:
 
 
-
-
 Class 9 - 4/1/19 - The Map Room in Practice
 ------------
 
 - In-Class Map Room followed by discussion
 
 
-## Section 4 - Data and the Anti-public
+# Section 4 - Data and the Anti-public
 
 1. Dark Matters - Introduction (Simone Brown) - https://www.scribd.com/document/283448443/Dark-Matters-by-Simone-Browne
 2. The New Jim Code? Race, Carceral Technoscience, and Liberatory Imagination (Ruha Benjamin)- https://belonging.berkeley.edu/video-ruha-benjamin-new-jim-code-race-carceral-technoscience-and-liberatory-imagination
