@@ -27,7 +27,7 @@ Assignments + Semester Projects: 70%
 Since we’re not using a percentage-based grading system, let me put it another way: if you’re an active contributor to our discussions in class, and you complete your assignments, and you make something ambitious/excellent as a final project, you’ll pass this class. If you don’t, you won’t.
 
 ## Land Notice
-Each week of this course, we'll gathered on the unceded land of the Lenape peoples. I ask you to join me in acknowledging the Lenape community, their elders both past and present, as well as future generations. I also acknowledge that NYU and ITP was founded upon exclusions and erasures of many Indigenous peoples, including those on whose land this institution is located. This acknowledgement demonstrates a commitment to beginning the process of working to dismantle the ongoing legacies of settler colonialism.
+Each week of this course, we'll gathered on the unceded land of the Lenape and Canarsie peoples. I ask you to join me in acknowledging the Lenape and Canarsie communities, their elders both past and present, as well as future generations. I also acknowledge that NYU and ITP was founded upon exclusions and erasures of many Indigenous peoples, including those on whose land this institution is located. This acknowledgement demonstrates a commitment to beginning the process of working to dismantle the ongoing legacies of settler colonialism.
 
 ## This Syllabus is in Flux
 And it will probably remain so for the rest of the course. I expect things to change as we get a sense of our shared goals, and an ideal pace of learning. Please check in here regularly.
