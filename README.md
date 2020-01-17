@@ -76,7 +76,7 @@ Class 2 - 2/5/20 - A lossy kind of Alchemy
 
 Art & The API - http://blog.blprnt.com/blog/blprnt/art-and-the-api
 Dear Data (Stephanie Posavec & Giorgia Lupi) - https://vimeo.com/133608605
-Consider the Boolean (Jacob Harris) - https://des4div.library.northeastern.edu/consider-the-boolean-the-challenge-of-using-binary-data-structures-in-a-complicated-world/
+Consider the Boolean (Jacob Harris) - https://source.opennews.org/articles/consider-boolean/
 
 ###  Small Assignment (due next week):
 
