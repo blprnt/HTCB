@@ -54,8 +54,8 @@ In this section we'll look at the basics of getting data and representing it, le
 
 Readings, etc:
 
-1. Loukissas
-2. Dark Matters
+1. TBA
+2. TBA
 3. Hyper Local High Tech (Complex Movements) - https://vimeo.com/233329636
 
 
