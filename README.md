@@ -54,8 +54,8 @@ In this section we'll look at the basics of getting data and representing it, le
 
 Readings, etc:
 
-1. TBA
-2. TBA
+1. Turning Data Around - https://medium.com/memo-random/turning-data-around-7acea1f7479c
+2. Data Feminism Chapter 2: On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints (Catherine D'Ignazio & Lauten Klein) - https://bookbook.pubpub.org/pub/8tjbs2x5
 3. Hyper Local High Tech (Complex Movements) - https://vimeo.com/233329636
 
 
@@ -85,9 +85,9 @@ Data visualization is, at its root, a simple thing. In this class we'll start wi
 
 ### Resources:
 
-Art & The API - http://blog.blprnt.com/blog/blprnt/art-and-the-api
-Dear Data (Stephanie Posavec & Giorgia Lupi) - https://vimeo.com/133608605
-Consider the Boolean (Jacob Harris) - https://source.opennews.org/articles/consider-boolean/
+* Art & The API - http://blog.blprnt.com/blog/blprnt/art-and-the-api
+* Dear Data (Stephanie Posavec & Giorgia Lupi) - https://vimeo.com/133608605
+* Consider the Boolean (Jacob Harris) - https://source.opennews.org/articles/consider-boolean/
 
 ###  Small Assignment (due next week):
 
@@ -103,7 +103,7 @@ We'll continue last week's work on data visualization, this time looking at how 
 
 ### Resources:
 
-Intro to D3: https://square.github.io/intro-to-d3/?ref=hackr.io
+* Intro to D3: https://square.github.io/intro-to-d3/?ref=hackr.io
 
 ### Medium Assignment (due Class 5):
 
@@ -132,10 +132,10 @@ Data can be mapped to almost anything, to things so creative and bizarre that th
 
 ### Resources: 
 
-List of Physical Visualizations: http://dataphys.org/list/
-Data, Music & Emotion (Hannah Davis) https://vimeo.com/287093751
-Society's Signposts (on the OneTrees project by Nathalie Jeremijenko) https://www.sfgate.com/bayarea/article/Society-s-signposts-Natalie-Jeremijenko-s-trees-2641315.php
-Rose of Jerichoe (Martin Kim Ruge) http://www.martinluge.de/work/roseofjericho/
+* List of Physical Visualizations: http://dataphys.org/list/
+* Data, Music & Emotion (Hannah Davis) https://vimeo.com/287093751
+* Society's Signposts (on the OneTrees project by Nathalie Jeremijenko) https://www.sfgate.com/bayarea/article/Society-s-signposts-Natalie-Jeremijenko-s-trees-2641315.php
+* Rose of Jerichoe (Martin Kim Ruge) http://www.martinluge.de/work/roseofjericho/
 
 ### Small Assignment
 
@@ -149,8 +149,8 @@ The ways in which we typically interact with data are lonely - and often isolati
 
 ### Resources:
 
-Bushwick Analytica (Tega Brain) - http://tegabrain.com/Bushwick-Analytica
-Of All The People in the World - https://en.wikipedia.org/wiki/Of_All_The_People_In_All_The_World
+* Bushwick Analytica (Tega Brain) - http://tegabrain.com/Bushwick-Analytica
+* Of All The People in the World - https://en.wikipedia.org/wiki/Of_All_The_People_In_All_The_World
 
 ### Medium Assignment
 
@@ -170,8 +170,8 @@ Guest Speaker: TBA
 
 ### Resources:
 
-A Sort of Joy - Thousands of Exhausted Things - https://medium.com/memo-random/a-sort-of-joy-1d9d5ff02ac9
-Rivers, Rats and RNNs (Brian House) - https://vimeo.com/287093394
+* A Sort of Joy - Thousands of Exhausted Things - https://medium.com/memo-random/a-sort-of-joy-1d9d5ff02ac9
+* Rivers, Rats and RNNs (Brian House) - https://vimeo.com/287093394
 
 ### Medium Assignment:
 Working in groups of 2 or 3, write and carry out a data performance. Performances should be captured on video; two groups will be picked at random to perform their peices in Class 9.
