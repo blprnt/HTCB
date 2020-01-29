@@ -4,7 +4,7 @@ Data & Publics - ITP, Spring 2020
 Jer Thorp (jer@ocr.nyc)
 Pronouns: He/Him
 
-Office Hours: Mondays, 12:30 - 1pm
+Office Hours: Mondays, 1pm - 3pm
 
 Sign-up: https://calendar.google.com/calendar/selfsched?sstoken=UURJMHJSVDZsSjZBfGRlZmF1bHR8ODExYTRlMmQ4Y2VjOThhNzY0ZGEyMDJkYzJkM2M5NjQ
 
