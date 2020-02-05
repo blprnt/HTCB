@@ -85,7 +85,6 @@ Data visualization is, at its root, a simple thing. In this class we'll start wi
 
 ### Resources:
 
-* Art & The API - http://blog.blprnt.com/blog/blprnt/art-and-the-api
 * Dear Data (Stephanie Posavec & Giorgia Lupi) - https://vimeo.com/133608605
 * Consider the Boolean (Jacob Harris) - https://source.opennews.org/articles/consider-boolean/
 * California Weather Sensors - https://cimis.water.ca.gov/Stations.aspx
@@ -108,6 +107,7 @@ We'll continue last week's work on data visualization, this time looking at how 
 
 ### Resources:
 
+* Art & The API - http://blog.blprnt.com/blog/blprnt/art-and-the-api
 * Intro to D3: https://square.github.io/intro-to-d3/?ref=hackr.io
 
 ### Medium Assignment (due Class 5):
