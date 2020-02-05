@@ -90,6 +90,7 @@ Data visualization is, at its root, a simple thing. In this class we'll start wi
 * Consider the Boolean (Jacob Harris) - https://source.opennews.org/articles/consider-boolean/
 * California Weather Sensors - https://cimis.water.ca.gov/Stations.aspx
 * OpenWeatherMap API - https://openweathermap.org/api
+* Tabula - https://tabula.technology/
 * Mariner 5 TV image - https://photojournal.jpl.nasa.gov/catalog/PIA14033
 
 ###  Small Assignment (due next week):
