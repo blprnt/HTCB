@@ -92,6 +92,7 @@ Data visualization is, at its root, a simple thing. In this class we'll start wi
 * OpenWeatherMap API - https://openweathermap.org/api
 * Tabula - https://tabula.technology/
 * Mariner 5 TV image - https://photojournal.jpl.nasa.gov/catalog/PIA14033
+* The Dat Protocol - https://docs.dat.foundation/docs/install
 
 ###  Small Assignment (due next week):
 
