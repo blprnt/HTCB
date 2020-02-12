@@ -109,6 +109,7 @@ We'll continue last week's work on data visualization, this time looking at how 
 
 * Art & The API - http://blog.blprnt.com/blog/blprnt/art-and-the-api
 * Intro to D3: https://square.github.io/intro-to-d3/?ref=hackr.io
+* p5.js glitch template: https://p5js-template.glitch.me/
 * California weather stations: https://cimis.water.ca.gov/Stations.aspx
 * Tabula: https://tabula.technology/
 * Mr. Data Converter: https://shancarter.github.io/mr-data-converter/
