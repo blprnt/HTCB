@@ -124,8 +124,10 @@ Class 4 - 2/19/19 - Data Viz, continued
 Resources:
 
 * Command Line Cartography - Mike Bostock - https://medium.com/@mbostock/command-line-cartography-part-1-897aa8f8ca2c
-
-Field Trip! We'll visit 2-3 public artworks in New York that put data into public space. We'll consider the multitude of design & commiunications considerations that ariste from making work which is physical, which exists in non-digital timescales, and which touches the quotidian experience of commuters, tourists, locals and passers-by.
+* Geocoding plug-in - https://gsuite.google.com/marketplace/app/geocode_by_awesome_table/904124517349
+* Bounding box tool - https://boundingbox.klokantech.com/
+* Google civic information API - https://developers.google.com/civic-information/docs/using_api
+* Native Land API - https://native-land.ca/api-docs/
 
 # Section 2: Data publics
 
@@ -202,7 +204,7 @@ Readings, etc:
 Class 8 - 3/25/19 - Field Trip!
 ------------
 
-
+Field Trip! We'll visit 2-3 public artworks in New York that put data into public space. We'll consider the multitude of design & commiunications considerations that ariste from making work which is physical, which exists in non-digital timescales, and which touches the quotidian experience of commuters, tourists, locals and passers-by.
 
 Class 8 - 4/1/19 - The Map Room in Theory
 ------------
