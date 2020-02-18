@@ -118,8 +118,12 @@ We'll continue last week's work on data visualization, this time looking at how 
 
 Using Glitch & D3.js or P5.js (or whatever other visual libraries you may feel comfortable with), create a visualization of a public data set. 
 
-Class 4 - 2/19/19 - Field Trip
+Class 4 - 2/19/19 - Data Viz, continued
 ------------
+
+Resources:
+
+* Command Line Cartography - Mike Bostock - https://medium.com/@mbostock/command-line-cartography-part-1-897aa8f8ca2c
 
 Field Trip! We'll visit 2-3 public artworks in New York that put data into public space. We'll consider the multitude of design & commiunications considerations that ariste from making work which is physical, which exists in non-digital timescales, and which touches the quotidian experience of commuters, tourists, locals and passers-by.
 
@@ -195,7 +199,12 @@ Readings, etc:
 2. Mapping's Intelligent Agents (Shannon Mattern) - https://placesjournal.org/article/mappings-intelligent-agents/
 
 
-Class 8 - 3/25/19 - The Map Room in Theory
+Class 8 - 3/25/19 - Field Trip!
+------------
+
+
+
+Class 8 - 4/1/19 - The Map Room in Theory
 ------------
 
 In the Map Room, Ccmmunity groups mapped hand-collected bicycle traffic data, community gardens, churches, magnet schools, and food banks. Groups of students mapped their schools, how they got there, and where it was or wasn’t safe. If mapping is a source of power, each mapper claimed some of it by making maps of their community that reflected them as they are, or that communicated what they’d like them to be. We'll learn more about the project, review work that influenced it, and make planse for how we can deploy a map room in Class 10.
@@ -213,7 +222,7 @@ TBA
 Guest Speaker: TBA
 
 
-Class 9 - 4/1/19 - Data Liberation
+Class 9 - 4/8/19 - Data Liberation
 ------------
 
 In the service of building a set of data layers to use for our Map Room, we'll investigate ways to make existing data sets more useful and more open. We'll also look at easy mechanisms for collecting data, and will investigate new low-cost ways for collecting environmental data.
@@ -233,7 +242,7 @@ TBA
 Identify a data set or archival map that could be used for our Map Room, and convert it to the necessary format (this will be explained in detail during class)
 
 
-Class 10 - 4/8/19 - The Map Room in Practice
+Class 10 - 4/15/19 - The Map Room in Practice
 ------------
 
 - In-Class Map Room followed by discussion
@@ -248,7 +257,7 @@ Both words - public and open - beg a question: for whom? Despite the efforts of 
 3. Indigenous Data Sovereignty (Tahu Kukutai) - https://www.youtube.com/watch?v=qfxC6HXY968
 
 
-Class 11 - 4/15/19
+Class 11 - 4/22/19
 ------------
 
 I'm teaching this class with a tonne of enthusiasm, though not, I admit, with a surfeit of hope. These have been difficult years. As I’m writing this, thousands of migrants sit in detention camps along this country’s southern border, their incarceration ‘optimized’ by face recognition and risk assessment algorithms. States are passing laws that would enable employers to discriminate against LGBTQ+ people, a process that will be greatly enabled by high-tech HR systems with ‘social media monitoring’ built in as a feature. When I look at the training images for computer vision algorithms I keep checking for the face of my three year old son. The four companies that hold much of our data are worth a combined two and a half trillion dollars; to imagine ways to resist against these scales of power, financial, political, and computational, is daunting.
