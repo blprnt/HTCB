@@ -140,6 +140,8 @@ Class 4 - 2/19/19 - Data Viz, continued
 * Native Land API - https://native-land.ca/api-docs/
 * D3 mouseover effects - https://medium.com/@kj_schmidt/show-data-on-mouse-over-with-d3-js-3bf598ff8fc2
 * D3 color scales - https://github.com/d3/d3-scale-chromatic
+* Top 5 cities - https://www.infoplease.com/us/us-cities/top-50-cities-us-population-and-rank
+* Get data from HTML table https://www.convertcsv.com/html-table-to-csv.htm
 
 
 # Section 2: Data publics
