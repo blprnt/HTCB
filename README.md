@@ -131,6 +131,8 @@ Resources:
 * Bounding box tool - https://boundingbox.klokantech.com/
 * Google civic information API - https://developers.google.com/civic-information/docs/using_api
 * Native Land API - https://native-land.ca/api-docs/
+* D3 mouseover effects - https://medium.com/@kj_schmidt/show-data-on-mouse-over-with-d3-js-3bf598ff8fc2
+* D3 color scales - https://github.com/d3/d3-scale-chromatic
 
 
 # Section 2: Data publics
