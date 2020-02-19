@@ -124,7 +124,14 @@ Using Glitch & D3.js or P5.js (or whatever other visual libraries you may feel c
 Class 4 - 2/19/19 - Data Viz, continued
 ------------
 
-Resources:
+### Data sets for warm-up
+* A - History of global banking crises: https://www.imf.org/~/media/Files/Publications/WP/2018/datasets/wp18206.ashx
+* B - Greatest Hiip-hop songs of all time: https://github.com/sjockers/bbc-best-rapmusic
+* C - Protests in Autocratic countries: https://mmadatabase.org/about/
+* D - All Adoptable dogs on Sept. 29, 2019: https://github.com/the-pudding/data/tree/master/dog-shelters
+
+
+### Resources:
 
 * Command Line Cartography - Mike Bostock - https://medium.com/@mbostock/command-line-cartography-part-1-897aa8f8ca2c
 * Geocoding plug-in - https://gsuite.google.com/marketplace/app/geocode_by_awesome_table/904124517349
