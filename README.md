@@ -46,6 +46,9 @@ And it will probably remain so for the rest of the course. I expect things to ch
 
 (vi) I am 100% dedicated to a inclusive, harassment-free experience for everyone regardless of gender, race, sexual orientation, disability, appearance, or religion. I will not tolerate harassment of class participants in any form. I will address you by your name and pronouns. Your health and well being is my first concern, and I will do my best not to add to the over-stressed conditions that programs like ITP unfortunately cultivate.
 
+# Glitch collection
+* Glitch collection: https://glitch.com/@blprnt/data-publics
+
 
 # Section 1 - Public Data
 What is public data? What kind of information is available and how can we access it? How can we start thinking critically about what data are made public, and what data are not?
@@ -128,6 +131,7 @@ Resources:
 * Bounding box tool - https://boundingbox.klokantech.com/
 * Google civic information API - https://developers.google.com/civic-information/docs/using_api
 * Native Land API - https://native-land.ca/api-docs/
+
 
 # Section 2: Data publics
 
