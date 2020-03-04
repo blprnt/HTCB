@@ -166,6 +166,7 @@ Data can be mapped to almost anything, to things so creative and bizarre that th
 * Data, Music & Emotion (Hannah Davis) https://vimeo.com/287093751
 * Society's Signposts (on the OneTrees project by Nathalie Jeremijenko) https://www.sfgate.com/bayarea/article/Society-s-signposts-Natalie-Jeremijenko-s-trees-2641315.php
 * Rose of Jerichoe (Martin Kim Ruge) http://www.martinluge.de/work/roseofjericho/
+* Euler's Number and the Price of Fish: https://madartlab.com/eulernumberfish/
 
 ### Small Assignment
 
