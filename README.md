@@ -8,6 +8,36 @@ Office Hours: Mondays, 1pm - 3pm
 
 Sign-up: https://calendar.google.com/calendar/selfsched?sstoken=UURJMHJSVDZsSjZBfGRlZmF1bHR8ODExYTRlMmQ4Y2VjOThhNzY0ZGEyMDJkYzJkM2M5NjQ
 
+We're in this together
+---
+
+Principles
+**1.	Nobody signed up for this.**
+* Not for the sickness, not for the social distancing, not for the sudden end of our collective lives together on campus
+* Not for an online class, not for teaching remotely, not for learning from home, not for mastering new technologies, not for varied access to learning materials
+
+**2.	The humane option is the best option.**
+* We are going to prioritize supporting each other as humans
+* We are going to prioritize simple solutions that make sense for the most
+* We are going to prioritize sharing resources and communicating clearly
+
+**3.	We cannot just do the same thing online.**
+* Some assignments are no longer possible
+* Some expectations are no longer reasonable
+* Some objectives are no longer valuable
+
+**4.	We will foster intellectual nourishment, social connection, and personal accommodation.**
+* Accessible asynchronous content for diverse access, time zones, and contexts
+* Optional synchronous discussion to learn together and combat isolation
+
+5.	We will remain flexible and adjust to the situation.
+* Nobody knows where this is going and what we’ll need to adapt
+* Everybody needs support and understanding in this unprecedented moment
+
+
+Thanks to Brandon Bayne for these principles
+
+
 
 Course Description:
 ---
