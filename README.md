@@ -30,7 +30,7 @@ Principles
 * Accessible asynchronous content for diverse access, time zones, and contexts
 * Optional synchronous discussion to learn together and combat isolation
 
-5.	We will remain flexible and adjust to the situation.
+**5.	We will remain flexible and adjust to the situation.**
 * Nobody knows where this is going and what we’ll need to adapt
 * Everybody needs support and understanding in this unprecedented moment
 
