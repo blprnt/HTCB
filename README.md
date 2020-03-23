@@ -8,6 +8,12 @@ Office Hours: Mondays, 1pm - 3pm
 
 Sign-up: https://calendar.google.com/calendar/selfsched?sstoken=UURJMHJSVDZsSjZBfGRlZmF1bHR8ODExYTRlMmQ4Y2VjOThhNzY0ZGEyMDJkYzJkM2M5NjQ
 
+Riot discussion site
+---
+
+https://dppd.riot.im/
+
+
 We're in this together
 ---
 
@@ -203,13 +209,14 @@ Data can be mapped to almost anything, to things so creative and bizarre that th
 Create a data representation of public data (now loosely defined) which is experienced primarily with a sense other than sight (hearing, touch, smell, taste). Due Class 6.
 
 
-Class 6 - 3/4/19 - Participatory Engagement
+Class 6 - 3/10/19 - Participatory Engagement
 ------------
 
 The ways in which we typically interact with data are lonely - and often isolating. Also, the systems of data collection and computation are often left out of the picture. How can we envision new modes of engagement with data that are more active, and participatory? Can these modes lead to more agency? 
 
 ### Resources:
 
+* Chalk Project - https://streetpictures.org/chalk/
 * Bushwick Analytica (Tega Brain) - http://tegabrain.com/Bushwick-Analytica
 * Of All The People in the World - https://en.wikipedia.org/wiki/Of_All_The_People_In_All_The_World
 
@@ -217,7 +224,7 @@ The ways in which we typically interact with data are lonely - and often isolati
 
 For class 8, be prepared to give a 3 minute overview to the class about your idea for the final project (details about Final Project requirements will be outlined in this class)
 
-Class 7 - 3/11/19 - Data And Performance
+Class 7 - 3/23/19 - Data And Performance
 ------------
 
 Data live utilitarian lives. From the moment they are conceived, as measurements of some thing or system or person, they are conscripted to the cause of being useful. They are fed into algorithms, clustered and merged, mapped and reduced. They are graphed and charted, plotted and visualized. A rare datum might find itself turned into sound, or, more seldom, manifested as a physical object. Always, though, the measure of the life of data is in its utility. Data that are collected but not used are condemned to a quiet life in a database. They dwell in obscure tables, are quickly discarded, or worse (cue violin) – labelled as ‘exhaust’.
@@ -227,7 +234,7 @@ Perhaps this isn’t the only role for a datum? To be operated on? To be useful?
 - Review of data + performance projects
 - Techniques and tools
 
-Guest Speaker: TBA
+Guest Speaker: Tega Brain
 
 ### Resources:
 
@@ -235,51 +242,20 @@ Guest Speaker: TBA
 * Rivers, Rats and RNNs (Brian House) - https://vimeo.com/287093394
 
 ### Medium Assignment:
-Working in groups of 2 or 3, write and carry out a data performance. Performances should be captured on video; two groups will be picked at random to perform their peices in Class 9.
-
-# Section 3: Case Study - The Map Room
-
-In 2017, we turned the gymnasium of an abandoned school in St. Louis's North City and made it into a space for map-makign, data exploration, and dialogue. Since then, we've been workign to develop The Map Room as a wide-ranging platform to encourage social convening around data, and to critically question how people and communities are seen through data's lens. We'll introduce the project, and then run a map room of our own to see how it all works.
-
-Readings, etc:
-
-1. In the Map Room - https://medium.com/@blprnt/in-the-map-room-cd6b06bf2139
-2. Mapping's Intelligent Agents (Shannon Mattern) - https://placesjournal.org/article/mappings-intelligent-agents/
+Plan and carry out a data performance. Post the video to the DPPD Riot server by class 9. Apologize to your roommates.
 
 
-Class 8 - 3/25/19 - Field Trip!
-------------
-
-Field Trip! We'll visit 2-3 public artworks in New York that put data into public space. We'll consider the multitude of design & commiunications considerations that ariste from making work which is physical, which exists in non-digital timescales, and which touches the quotidian experience of commuters, tourists, locals and passers-by.
-
-Class 8 - 4/1/19 - The Map Room in Theory
-------------
-
-In the Map Room, Ccmmunity groups mapped hand-collected bicycle traffic data, community gardens, churches, magnet schools, and food banks. Groups of students mapped their schools, how they got there, and where it was or wasn’t safe. If mapping is a source of power, each mapper claimed some of it by making maps of their community that reflected them as they are, or that communicated what they’d like them to be. We'll learn more about the project, review work that influenced it, and make planse for how we can deploy a map room in Class 10.
-
-- Introduction to The Map Room
-- Guidelines for community engagement
-- Working in groups, come up with ideas for a local-to-ITP Map Room
-
-Also: Final Project ideas - see Class 6
-
-### Resources: 
-
-TBA
-
-Guest Speaker: TBA
-
-
-Class 9 - 4/8/19 - Data Liberation
+Class 8 - 4/1/19 - Data Liberation
 ------------
 
 In the service of building a set of data layers to use for our Map Room, we'll investigate ways to make existing data sets more useful and more open. We'll also look at easy mechanisms for collecting data, and will investigate new low-cost ways for collecting environmental data.
 
-Also: Data performances (see Class 7)
-
+- Web scraping
 - Converting proprietory data sets into open formats
 - Using map digitization and rectification workflows to make historical maps compatible with mapping software
 - Tactics for citizen data collection
+
+Also: Final Project ideas - see Class 6
 
 ### Resources:
 
@@ -287,25 +263,49 @@ TBA
 
 ### Small Assignment: 
 
-Identify a data set or archival map that could be used for our Map Room, and convert it to the necessary format (this will be explained in detail during class)
+Using one of the tactics we learned - web scraping, map rectification, or manual collection, liberate a data set that is currently not available to the public. Post the data in an open github repositiry and post the link in the Riot assignments room (due class 10)
 
-
-Class 10 - 4/15/19 - The Map Room in Practice
+Class 9 - 4/8/19 - Data And the Non-Human World
 ------------
 
-- In-Class Map Room followed by discussion
+Most of the focus in this class has been on human publics, and human data. How do things chance when we are dealing with the non-human? With animals and plants, with fungi and virii and ecosystems? In this class we'll look at practical ways in which technology is used to monitor and defent animal publics, and we'll look at some of the philisophical and ethical questions around using data that is gathered from wild spaces (both rural & urban)
+
+Also: Performance Assignments - see Class 7
+
+### Resources
+
+* FieldKit - https://www.fieldkit.org/
+
+### Small Assignment
 
 
-# Section 4 - Data and the Anti-public
 
-Both words - public and open - beg a question: for whom? Despite the efforts of Mae and Gareth, and Tim Grunder and many others, the internet as it exists is hardly a public space. Many people still find themselves excluded from full participation. How can our work speak to these inequities and perhaps offer ways to counter them?
+Class 10 - 4/15/19 - The Map Room
+------------
 
-1. Dark Matters - Introduction (Simone Brown) - https://www.scribd.com/document/283448443/Dark-Matters-by-Simone-Browne
-2. The New Jim Code? Race, Carceral Technoscience, and Liberatory Imagination (Ruha Benjamin)- https://belonging.berkeley.edu/video-ruha-benjamin-new-jim-code-race-carceral-technoscience-and-liberatory-imagination
-3. Indigenous Data Sovereignty (Tahu Kukutai) - https://www.youtube.com/watch?v=qfxC6HXY968
+In 2017, we turned the gymnasium of an abandoned school in St. Louis's North City and made it into a space for map-makign, data exploration, and dialogue. Since then, we've been workign to develop The Map Room as a wide-ranging platform to encourage social convening around data, and to critically question how people and communities are seen through data's lens. We'll introduce the project, and then run a map room of our own to see how it all works.
+
+In the Map Room, Ccmmunity groups mapped hand-collected bicycle traffic data, community gardens, churches, magnet schools, and food banks. Groups of students mapped their schools, how they got there, and where it was or wasn’t safe. If mapping is a source of power, each mapper claimed some of it by making maps of their community that reflected them as they are, or that communicated what they’d like them to be. We'll learn more about the project, review work that influenced it, and make planse for how we can deploy a map room in Class 10.
+
+- Introduction to The Map Room
+- Guidelines for community engagement
+- Working in groups, come up with ideas for a local-to-your life Map Room
+
+Also: Data performances (see Class 7)
+
+### Readings, etc:
+
+In the Map Room - https://medium.com/@blprnt/in-the-map-room-cd6b06bf2139
+Mapping's Intelligent Agents (Shannon Mattern) - https://placesjournal.org/article/mappings-intelligent-agents/
+
+### Resources: 
+
+TBA
+
+Guest Speaker: Yanni Loukissas
 
 
-Class 11 - 4/22/19
+Class 11 - 4/22/19 - Data's Dark Matter
 ------------
 
 I'm teaching this class with a tonne of enthusiasm, though not, I admit, with a surfeit of hope. These have been difficult years. As I’m writing this, thousands of migrants sit in detention camps along this country’s southern border, their incarceration ‘optimized’ by face recognition and risk assessment algorithms. States are passing laws that would enable employers to discriminate against LGBTQ+ people, a process that will be greatly enabled by high-tech HR systems with ‘social media monitoring’ built in as a feature. When I look at the training images for computer vision algorithms I keep checking for the face of my three year old son. The four companies that hold much of our data are worth a combined two and a half trillion dollars; to imagine ways to resist against these scales of power, financial, political, and computational, is daunting.
@@ -315,11 +315,15 @@ How can we take what we've learned in this class and put it into meaningful prac
 - Data publics as activist spaces
 - Data as disruption
 
-###Resources
+Both words - public and open - beg a question: for whom? Despite the efforts of Mae and Gareth, and Tim Grunder and many others, the internet as it exists is hardly a public space. Many people still find themselves excluded from full participation. How can our work speak to these inequities and perhaps offer ways to counter them?
 
-TBA
+## Resources
 
-Class 12 - 4/22/19
+1. Dark Matters - Introduction (Simone Brown) - https://www.scribd.com/document/283448443/Dark-Matters-by-Simone-Browne
+2. The New Jim Code? Race, Carceral Technoscience, and Liberatory Imagination (Ruha Benjamin)- https://belonging.berkeley.edu/video-ruha-benjamin-new-jim-code-race-carceral-technoscience-and-liberatory-imagination
+3. Indigenous Data Sovereignty (Tahu Kukutai) - https://www.youtube.com/watch?v=qfxC6HXY968
+
+Class 12 - 4/29/19
 ------------
 
 - Final Project presentations
