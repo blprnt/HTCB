@@ -259,7 +259,8 @@ Also: Final Project ideas - see Class 6
 
 ### Resources:
 
-TBA
+Mimi Onuoha - How We Became Machine Readable - https://vimeo.com/233011125
+Sam Sinyangwe & Deray McKesson - Mapping Police Violence - https://vimeo.com/133608602
 
 ### Small Assignment: 
 
