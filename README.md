@@ -266,7 +266,29 @@ Sam Sinyangwe & Deray McKesson - Mapping Police Violence - https://vimeo.com/133
 
 Using one of the tactics we learned - web scraping, map rectification, or manual collection, liberate a data set that is currently not available to the public. Post the data in an open github repositiry and post the link in the Riot assignments room (due class 10)
 
-Class 9 - 4/8/19 - Data And the Non-Human World
+Class 9 - 4/8/19 - The Map Room
+------------
+
+In 2017, we turned the gymnasium of an abandoned school in St. Louis's North City and made it into a space for map-makign, data exploration, and dialogue. Since then, we've been workign to develop The Map Room as a wide-ranging platform to encourage social convening around data, and to critically question how people and communities are seen through data's lens. We'll introduce the project, and then run a map room of our own to see how it all works.
+
+In the Map Room, Ccmmunity groups mapped hand-collected bicycle traffic data, community gardens, churches, magnet schools, and food banks. Groups of students mapped their schools, how they got there, and where it was or wasn’t safe. If mapping is a source of power, each mapper claimed some of it by making maps of their community that reflected them as they are, or that communicated what they’d like them to be. We'll learn more about the project, review work that influenced it, and make planse for how we can deploy a map room in Class 10.
+
+Also: Data performances (see Class 7)
+
+### Readings, etc:
+
+* In the Map Room - https://medium.com/@blprnt/in-the-map-room-cd6b06bf2139
+* Mapping's Intelligent Agents (Shannon Mattern) - https://placesjournal.org/article/mappings-intelligent-agents/
+* Map Room school curriculum video: https://drive.google.com/file/d/0B0lcHdtcqaMNVzRlMUpBemplYW8/view?usp=sharing
+
+### Resources: 
+
+* MÄTAURANGA MÄORI AND THE DATA–INFORMATION– KNOWLEDGE–WISDOM HIERARCHY https://ndhadeliver.natlib.govt.nz/delivery/DeliveryManagerServlet?dps_pid=FL15030125
+
+Guest Speaker: Yanni Loukissas - https://www.iac.gatech.edu/people/faculty/loukissas
+
+
+Class 10 - 4/15/19 - Data and the Non-Human world
 ------------
 
 Most of the focus in this class has been on human publics, and human data. How do things chance when we are dealing with the non-human? With animals and plants, with fungi and virii and ecosystems? In this class we'll look at practical ways in which technology is used to monitor and defent animal publics, and we'll look at some of the philisophical and ethical questions around using data that is gathered from wild spaces (both rural & urban)
@@ -277,33 +299,6 @@ Also: Performance Assignments - see Class 7
 
 * FieldKit - https://www.fieldkit.org/
 
-### Small Assignment
-
-
-
-Class 10 - 4/15/19 - The Map Room
-------------
-
-In 2017, we turned the gymnasium of an abandoned school in St. Louis's North City and made it into a space for map-makign, data exploration, and dialogue. Since then, we've been workign to develop The Map Room as a wide-ranging platform to encourage social convening around data, and to critically question how people and communities are seen through data's lens. We'll introduce the project, and then run a map room of our own to see how it all works.
-
-In the Map Room, Ccmmunity groups mapped hand-collected bicycle traffic data, community gardens, churches, magnet schools, and food banks. Groups of students mapped their schools, how they got there, and where it was or wasn’t safe. If mapping is a source of power, each mapper claimed some of it by making maps of their community that reflected them as they are, or that communicated what they’d like them to be. We'll learn more about the project, review work that influenced it, and make planse for how we can deploy a map room in Class 10.
-
-- Introduction to The Map Room
-- Guidelines for community engagement
-- Working in groups, come up with ideas for a local-to-your life Map Room
-
-Also: Data performances (see Class 7)
-
-### Readings, etc:
-
-In the Map Room - https://medium.com/@blprnt/in-the-map-room-cd6b06bf2139
-Mapping's Intelligent Agents (Shannon Mattern) - https://placesjournal.org/article/mappings-intelligent-agents/
-
-### Resources: 
-
-TBA
-
-Guest Speaker: Yanni Loukissas
 
 
 Class 11 - 4/22/19 - Data's Dark Matter
