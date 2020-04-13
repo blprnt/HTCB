@@ -295,6 +295,11 @@ Most of the focus in this class has been on human publics, and human data. How d
 
 Also: Performance Assignments - see Class 7
 
+### Readings, Etc.
+
+* Helen Macdonald - Flight Paths - https://www.nytimes.com/2015/05/17/magazine/flight-paths.htmlhttps://www.nytimes.com/2015/05/17/magazine/flight-paths.html
+* Gilberto Espaza - Eyeo 2018 - HYDROCOMMUNITIES - https://vimeo.com/287093698
+
 ### Resources
 
 * FieldKit - https://www.fieldkit.org/
