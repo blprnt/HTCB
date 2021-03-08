@@ -1,17 +1,14 @@
 How to Count Birds - ITP, Spring 2021
 =======================
 
+![image](https://user-images.githubusercontent.com/325363/110368760-7b874d80-8017-11eb-9d38-6cce91b3b218.png)
+
 Jer Thorp (jer@ocr.nyc)
 Pronouns: He/Him
 
 Office Hours: Mondays, 1pm - 3pm
 
 Sign-up: https://calendly.com/jerthorp
-
-Riot discussion site
----
-
-https://dppd.riot.im/
 
 Course Description:
 ---
@@ -61,6 +58,12 @@ Every week, our class time can expect to be divided roughly as follows:
 - 1 hour together on Zoom
 - 1 hour working on asynchonous course materials
 
+## Course-spanning resources
+
+- Lightning Birds: An Aeroecology of the Airwaves (Jacob Smith) - https://www.fulcrum.org/concern/monographs/z603r054w?locale=en
+- Vesper Flights (Helen Macdonald): https://groveatlantic.com/book/vesper-flights/
+- The Sibley Guide to Birds (David Allen Sibley): https://bookshop.org/books/the-sibley-guide-to-birds/9780307957900
+
 
 Class 1 - 3/22/21 - Birding as a creative practice
 ------------
@@ -81,12 +84,20 @@ Class 1 - 3/22/21 - Birding as a creative practice
 - Feedwerwatch: https://feederwatch.org/
 - Live Bird Migration App: https://birdcast.info/migration-tools/live-migration-maps/
 
-
 ### Small Assignment (due next week): 
 
 1st Day: Spend some time looking at the Cornell Labs feeder cams and choose one that you are interested in (and is active in your time zone!). Develop a methodology for counting that is not only about counting individual birds. (ie. colour, flight direction, type of food, size, etc.) Your technique should *not* include Computer Vision approaches. 
 
 2nd Day: Spend 45 minutes to an hour counting using your methodology. Be ready to share your results next class.
+
+### Birding challenge:
+
+Just get out there!
+
+Tips for beginner birders:
+
+- Find a eBird hotspot near you (https://ebird.org/hotspots) and see what has been seen recently
+- Look up these birds in advance. Watching videos and playing calls is very helpful. Remember, in the spring most birds will be singing.
 
 Class 2 - 3/29/21 - Birds & Data
 ------------
@@ -101,31 +112,44 @@ Birdwatching is closely bound to the enumeration of birds and the keeping of lis
 - https://netapp.audubon.org/cbcobservation/
 - https://www.nytimes.com/2018/05/31/science/warblers-canada-migration.html
 
-
 ### Small Assignment (due next week): 
 
 Pick a bird data set (small or large) and produce a representation of this data. This could be a data visualization, or a small sculpture, or a performance. Be prepared to share the project during the next class. 
 
+### Birding challenge:
+
+Watch one bird: Spend as much time as you can observing a single bird. What do you notice about its behaviour? 
+
 Class 3 - 4/5/21 - Banding & Bird Bodies
 ------------
 
+![image](https://user-images.githubusercontent.com/325363/110368886-9eb1fd00-8017-11eb-9a97-f9cc4596166e.png)
+
+For more than a century, birds have been tracked through the analogue technique of banding. In this class, we'll hear from two ornithologists about their work at Staten Island's Freshkills park. We'll also investigate historical practices of banding and look at datasets involving banding data.
 
 ### Resources:
 
 - What Scientists Have Learned from 100 Years of Banding: https://www.scientificamerican.com/article/what-scientists-have-learned-from-100-years-of-bird-banding/
 - USGS Bird Banding Lab: https://www.usgs.gov/centers/pwrc/science/bird-banding-laboratory?qt-science_center_objects=0#qt-science_center_objects
-
+- Banding Ethics: https://sora.unm.edu/sites/default/files/EN_32-5_243-246.pdf
 
 ### Small Assignment (due next week): 
+
+### Birding challenge: 
+
+Focus on the females: Particularly during the spring, we can end up paying more attention to the bright feathers and loud song of male birds. Today, focus on the females. What subtle patterns can you find in their plumage? How does this change in your attention change your experience of birding?
 
 ## Guest Speakers:
 Shannon Curley & José Ramírez-Garofalo (Freshkills Park, Staten Island)
 
+
+
 Class 4 - 4/12/21 - Calls & Songs
 ------------
 
-![image](https://user-images.githubusercontent.com/325363/110333798-094f4280-7ff0-11eb-8abc-ddebb28dd5fb.png)
+Birding is as much an auditory experience as it is a visual one. Indeed, some behaviours of birds can only be observed by listening. In this class we'll focus on Nocturnal Flight Calls - the sounds that birds make when migrating high in the air at night. We'll look at techniques for DIY 'nocmig' recordings and will look at creative uses of sound in eco-focused creative practices. 
 
+![image](https://user-images.githubusercontent.com/325363/110333798-094f4280-7ff0-11eb-8abc-ddebb28dd5fb.png)
 
 ### Resources:
 
@@ -135,14 +159,21 @@ Class 4 - 4/12/21 - Calls & Songs
 - Mike's Microphone design: http://oldbird.org/mike_home.htm
 - AudioMoth: https://www.labmaker.org/collections/earth-and-ecology/products/audiomoth-v1-2-0
 - Bird Sounds (Manny Tan & Kyle McDonald): https://experiments.withgoogle.com/bird-sounds
+- The Wetland Project: http://wetlandproject.com/ra.php
 - https://citynaturechallenge.org/
 
 ### Week 1 of Final Project work
 
-Class 5 - 4/26/21 - Sattelites + Radar + Radio
+### Birding challenge: 
+
+Eyes closed: Find a place in your patch where you can hear birds calling. Close your eyes for five or ten minutes and see how many different birds you can identify. Are there patterns in the way they are calling? 
+
+Class 5 - 4/26/21 - Citizen Science
 ------------
 
-https://birdcast.info/about/weather-surveillance-radar-and-bird-migration-primer/
+On 9 May 2020, 50,000 birders submitted 120,000 checklists from 175 countries to eBird. Over the entire year, users of iNaturalist recorded 22.5M observations of 194,000 species. These data offer an invaluable resource to scientists, who are able to extend the range of their research by leaps and bounds. There are massive challenges inherent in these projects, though: how do you confirm that people are making the correct IDs? How do the biases of citizen scientists reflect in the data they collect and submit? How do you balance the goals of a citizen science project with the needs and preferences of 'users'?
+
+![image](https://user-images.githubusercontent.com/325363/110369083-dcaf2100-8017-11eb-8620-69bf13d34380.png)
 
 ### Resources:
 
@@ -150,23 +181,43 @@ https://birdcast.info/about/weather-surveillance-radar-and-bird-migration-primer
 
 ### Week 2 of Final Project work
 
-Class 6 - 5/3/21 - Citizen Science
+### Birding challenge: 
+
+Walk the other way: pick a different spot to bird than you usually do, somewhere that might feel unfamilar to you. In what ways does this change the way you observe? 
+
+## Guest Speaker:
+Alex Shepard (iNaturalist)
+
+
+Class 6 - 5/3/21 - Sattelites + Radar + Radio
 ------------
 
+![image](https://user-images.githubusercontent.com/325363/110369004-bee1bc00-8017-11eb-8a38-b3058905ba0d.png)
+
+Every day during the spring and fall migrations in North America, BirdCast provides real-time analysis maps showing intensities of actual nocturnal bird migration as detected by the US weather surveillance radar network between local sunset to sunrise. In adddition, it provides advance forecasts for migration in regions across the country. These forecasts are the product of a machine learning system trained on 23 years of bird movements in the atmosphere as detected by the US NEXRAD weather surveillance radar network. In this class we'll dig deep into the BirdCast system and learn how radar and radio is used to track birds in various contexts.
 
 ### Resources:
 
-
+- https://birdcast.info/about/weather-surveillance-radar-and-bird-migration-primer/
+- Lightning Birds: Episode 3: https://www.fulcrum.org/concern/file_sets/05741t81z?locale=en
+- How eBird Changed Birding Forever: https://www.outsideonline.com/2419209/ebird-online-platform-app-birding
 
 ### Week 3 of Final Project work
 
-Class 7 - 5/10/21 - The Ethics of Counting
+### Birding challenge: 
+
+Slow down: purposely walk at 1/2 of your usual pace. How does this shift your experience? Did you end up counting more or fewer birds?
+
+
+Class 7 - 5/10/21 - The Ethics of Enumeration
 ------------
 
+![image](https://user-images.githubusercontent.com/325363/110378348-7c25e100-8023-11eb-886e-dcae5c9b4f48.png)
 
 ### Resources:
 
-
+Birders of Africa - 
+Grouse podcast - https://www.npr.org/podcasts/913607568/grouse
 
 ### Final Projects due
 
