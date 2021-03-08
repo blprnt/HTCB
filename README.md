@@ -53,36 +53,58 @@ And it will probably remain so for the rest of the course. I expect things to ch
 # Glitch collection
 * Glitch collection: https://glitch.com/@blprnt/how-to-count-birds
 
+## Class Structure
+
+Every week, our class time can expect to be divided roughly as follows:
+
+- 1 hour birding in your own neighbourhood
+- 1 hour together on Zoom
+- 1 hour working on asynchonous course materials
+
 
 Class 1 - 3/22/21 - Birding as a creative practice
 ------------
+
+![image](https://user-images.githubusercontent.com/325363/110333490-9fcf3400-7fef-11eb-98da-4337c74145a6.png)
+
 
 - Introductions + class instructions
 - Collaborative discussion on course goals + outcomes
 - Why birding? Why birds? 
 - FeederWatch
+- Set-up for tech challenges throughout the course
 
 ### Resources:
 
-Identification, Please (Helen McDonald): https://www.nytimes.com/2015/06/21/magazine/identification-please.html
-Bird Cams: https://www.allaboutbirds.org/cams/
-Feedwerwatch: https://feederwatch.org/
-Live Bird Migration App: https://birdcast.info/migration-tools/live-migration-maps/
+- Identification, Please (Helen McDonald): https://www.nytimes.com/2015/06/21/magazine/identification-please.html
+- Bird Cams: https://www.allaboutbirds.org/cams/
+- Feedwerwatch: https://feederwatch.org/
+- Live Bird Migration App: https://birdcast.info/migration-tools/live-migration-maps/
 
 
 ### Small Assignment (due next week): 
+
+1st Day: Spend some time looking at the Cornell Labs feeder cams and choose one that you are interested in (and is active in your time zone!). Develop a methodology for counting that is not only about counting individual birds. (ie. colour, flight direction, type of food, size, etc.) Your technique should *not* include Computer Vision approaches. 
+
+2nd Day: Spend 45 minutes to an hour counting using your methodology. Be ready to share your results next class.
 
 Class 2 - 3/29/21 - Birds & Data
 ------------
 
+![image](https://user-images.githubusercontent.com/325363/110333282-6a2a4b00-7fef-11eb-826b-f7a25bcf0334.png)
+
+Birdwatching is closely bound to the enumeration of birds and the keeping of lists. In this class we'll examine several bird counting projects (past and present) and will use our feeder-watching experiences to discuss what different methods of counting necessarily include and exclude. We'll also show a series of data visualizations based on bird data. 
 
 ### Resources:
 
-https://www.trektellen.org/
-https://netapp.audubon.org/cbcobservation/
+- https://www.trektellen.org/
+- https://netapp.audubon.org/cbcobservation/
+- https://www.nytimes.com/2018/05/31/science/warblers-canada-migration.html
 
 
 ### Small Assignment (due next week): 
+
+Pick a bird data set (small or large) and produce a representation of this data. This could be a data visualization, or a small sculpture, or a performance. Be prepared to share the project during the next class. 
 
 Class 3 - 4/5/21 - Banding & Bird Bodies
 ------------
@@ -90,8 +112,8 @@ Class 3 - 4/5/21 - Banding & Bird Bodies
 
 ### Resources:
 
-What Scientists Have Learned from 100 Years of Banding: https://www.scientificamerican.com/article/what-scientists-have-learned-from-100-years-of-bird-banding/
-USGS Bird Banding Lab: https://www.usgs.gov/centers/pwrc/science/bird-banding-laboratory?qt-science_center_objects=0#qt-science_center_objects
+- What Scientists Have Learned from 100 Years of Banding: https://www.scientificamerican.com/article/what-scientists-have-learned-from-100-years-of-bird-banding/
+- USGS Bird Banding Lab: https://www.usgs.gov/centers/pwrc/science/bird-banding-laboratory?qt-science_center_objects=0#qt-science_center_objects
 
 
 ### Small Assignment (due next week): 
@@ -102,18 +124,20 @@ Shannon Curley & José Ramírez-Garofalo (Freshkills Park, Staten Island)
 Class 4 - 4/12/21 - Calls & Songs
 ------------
 
+![image](https://user-images.githubusercontent.com/325363/110333798-094f4280-7ff0-11eb-8abc-ddebb28dd5fb.png)
+
 
 ### Resources:
 
-https://citynaturechallenge.org/
+- http://earbirding.com/blog/
+- Nocmig: A Beginner's Guide: https://www.bto.org/community/blog/nocmig-beginners-guide
+- Night Flight Call Primer: https://nemesisbird.com/bird-science/night-flight-call-primer/
+- Mike's Microphone design: http://oldbird.org/mike_home.htm
+- AudioMoth: https://www.labmaker.org/collections/earth-and-ecology/products/audiomoth-v1-2-0
+- Bird Sounds (Manny Tan & Kyle McDonald): https://experiments.withgoogle.com/bird-sounds
+- https://citynaturechallenge.org/
 
-Nocmig: A Beginner's Guide: https://www.bto.org/community/blog/nocmig-beginners-guide
-Night Flight Call Primer: https://nemesisbird.com/bird-science/night-flight-call-primer/
-Mike's Microphone design: http://oldbird.org/mike_home.htm
-AudioMoth: https://www.labmaker.org/collections/earth-and-ecology/products/audiomoth-v1-2-0
-Bird Sounds (Manny Tan & Kyle McDonald): https://experiments.withgoogle.com/bird-sounds
-
-### Small Assignment (due next week): 
+### Week 1 of Final Project work
 
 Class 5 - 4/26/21 - Sattelites + Radar + Radio
 ------------
@@ -124,7 +148,7 @@ https://birdcast.info/about/weather-surveillance-radar-and-bird-migration-primer
 
 
 
-### Small Assignment (due next week): 
+### Week 2 of Final Project work
 
 Class 6 - 5/3/21 - Citizen Science
 ------------
@@ -134,7 +158,7 @@ Class 6 - 5/3/21 - Citizen Science
 
 
 
-### Small Assignment (due next week): 
+### Week 3 of Final Project work
 
 Class 7 - 5/10/21 - The Ethics of Counting
 ------------
@@ -144,7 +168,7 @@ Class 7 - 5/10/21 - The Ethics of Counting
 
 
 
-### Small Assignment (due next week): 
+### Final Projects due
 
 
 
