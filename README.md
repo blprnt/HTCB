@@ -209,14 +209,18 @@ Every day during the spring and fall migrations in North America, BirdCast provi
 Slow down: purposely walk at 1/2 of your usual pace. How does this shift your experience? Did you end up counting more or fewer birds?
 
 
-Class 7 - 5/10/21 - The Ethics of Enumeration
+Class 7 - 5/10/21 - Birding Backwards
 ------------
 
-![image](https://user-images.githubusercontent.com/325363/110378348-7c25e100-8023-11eb-886e-dcae5c9b4f48.png)
+![image](https://user-images.githubusercontent.com/325363/110470995-91455300-80a9-11eb-8c8e-55639186f00f.png)
+
+"Want to go birding at the museum?" 
+
+In this class we'll look at how historical records can provide glimpses of the biodiversity of the past, and how narratives of collection and exploration are often anchored in colonialism and exploitation.
 
 ### Resources:
 
-Birders of Africa - 
+Birders of Africa - TBA
 Grouse podcast - https://www.npr.org/podcasts/913607568/grouse
 
 ### Final Projects due
