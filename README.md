@@ -64,6 +64,7 @@ Every week, our class time can expect to be divided roughly as follows:
 - Lightning Birds: An Aeroecology of the Airwaves (Jacob Smith) - https://www.fulcrum.org/concern/monographs/z603r054w?locale=en
 - Vesper Flights (Helen Macdonald): https://groveatlantic.com/book/vesper-flights/
 - The Sibley Guide to Birds (David Allen Sibley): https://bookshop.org/books/the-sibley-guide-to-birds/9780307957900
+- Grouse! podcast: Grouse podcast - https://www.npr.org/podcasts/913607568/grouse
 
 
 Class 1 - 3/22/21 - Birding as a creative practice
@@ -76,7 +77,7 @@ Class 1 - 3/22/21 - Birding as a creative practice
 - Collaborative discussion on course goals + outcomes
 - Why birding? Why birds? 
 - FeederWatch
-- Set-up for tech challenges throughout the course
+- DIY Nocmig instruments: introduction
 
 ### Resources:
 
@@ -97,8 +98,9 @@ Just get out there!
 
 Tips for beginner birders:
 
-- Find a eBird hotspot near you (https://ebird.org/hotspots) and see what has been seen recently
+- Find a eBird hotspot near you (https://ebird.org/hotspots) and see what has been seen recently. You don't have to go to that place, but the list should give you an idea of waht birds are currently around
 - Look up these birds in advance. Watching videos and playing calls is very helpful. Remember, in the spring most birds will be singing.
+- You don't have to travel far! Find a park (even a small one) or a wild area that's within comfortable walking distance and adopt it as your 'patch'.
 
 Class 2 - 3/29/21 - Birds & Data
 ------------
@@ -204,6 +206,7 @@ Every day during the spring and fall migrations in North America, BirdCast provi
 ### Resources:
 
 - https://birdcast.info/about/weather-surveillance-radar-and-bird-migration-primer/
+- https://birdcast.info/news/mistnet-measuring-historical-bird-migration-in-the-us-using-archived-weather-radar-data-and-convolutional-neural-networks/
 - Lightning Birds: Episode 3: https://www.fulcrum.org/concern/file_sets/05741t81z?locale=en
 
 ### Week 3 of Final Project work
@@ -225,7 +228,10 @@ In this class we'll look at how historical records can provide glimpses of the b
 ### Resources:
 
 Birders of Africa - TBA
-Grouse podcast - https://www.npr.org/podcasts/913607568/grouse
+How Birding Lists of the Deceased Are Finding New Life on eBird - https://www.audubon.org/news/how-birding-lists-deceased-are-finding-new-life-ebird
+North American Bird Phenology Program - https://en.wikipedia.org/wiki/North_American_Bird_Phenology_Program
+
+
 
 ### Final Projects due
 
