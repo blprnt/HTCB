@@ -60,6 +60,7 @@ Every week, our class time can expect to be divided roughly as follows:
 
 ## Course-spanning resources
 
+- SoundEscapes, seasons 1 & 2 - https://www.birdnote.org/listen/birdnote-presents/sound-escapes
 - Lightning Birds: An Aeroecology of the Airwaves (Jacob Smith) - https://www.fulcrum.org/concern/monographs/z603r054w?locale=en
 - Vesper Flights (Helen Macdonald): https://groveatlantic.com/book/vesper-flights/
 - The Sibley Guide to Birds (David Allen Sibley): https://bookshop.org/books/the-sibley-guide-to-birds/9780307957900
@@ -114,7 +115,7 @@ Birdwatching is closely bound to the enumeration of birds and the keeping of lis
 
 ### Small Assignment (due next week): 
 
-Pick a bird data set (small or large) and produce a representation of this data. This could be a data visualization, or a small sculpture, or a performance. Be prepared to share the project during the next class. 
+Working in a group of 3 students: Pick a bird data set (small or large) and produce a representation of this data that does not primarily focus on the sense of sight. This could be a sonification, or a small sculpture, or a performance. Be prepared to share the project during the next class. 
 
 ### Birding challenge:
 
@@ -135,6 +136,8 @@ For more than a century, birds have been tracked through the analogue technique 
 
 ### Small Assignment (due next week): 
 
+- Through the first weeks of class, we will have discussed how to build a DIY instrument for recording Nocturnal Flight Calls. Some time over this week, set up your device overnight and record audio. Use Raven Lite (https://ravensoundsoftware.com/software/raven-lite/) to extract and identify flight calls (if any) in your recording. Be prepared to share your findings in class!
+
 ### Birding challenge: 
 
 Focus on the females: Particularly during the spring, we can end up paying more attention to the bright feathers and loud song of male birds. Today, focus on the females. What subtle patterns can you find in their plumage? How does this change in your attention change your experience of birding?
@@ -153,6 +156,7 @@ Birding is as much an auditory experience as it is a visual one. Indeed, some be
 
 ### Resources:
 
+- Sound Escapes Episode 1: Relearn the Art of Listening - https://www.birdnote.org/listen/birdnote-presents/relearn-art-listening
 - http://earbirding.com/blog/
 - Nocmig: A Beginner's Guide: https://www.bto.org/community/blog/nocmig-beginners-guide
 - Night Flight Call Primer: https://nemesisbird.com/bird-science/night-flight-call-primer/
@@ -160,7 +164,7 @@ Birding is as much an auditory experience as it is a visual one. Indeed, some be
 - AudioMoth: https://www.labmaker.org/collections/earth-and-ecology/products/audiomoth-v1-2-0
 - Bird Sounds (Manny Tan & Kyle McDonald): https://experiments.withgoogle.com/bird-sounds
 - The Wetland Project: http://wetlandproject.com/ra.php
-- https://citynaturechallenge.org/
+
 
 ### Week 1 of Final Project work
 
@@ -177,7 +181,8 @@ On 9 May 2020, 50,000 birders submitted 120,000 checklists from 175 countries to
 
 ### Resources:
 
-
+- How eBird Changed Birding Forever: https://www.outsideonline.com/2419209/ebird-online-platform-app-birding
+- https://citynaturechallenge.org/
 
 ### Week 2 of Final Project work
 
@@ -200,7 +205,6 @@ Every day during the spring and fall migrations in North America, BirdCast provi
 
 - https://birdcast.info/about/weather-surveillance-radar-and-bird-migration-primer/
 - Lightning Birds: Episode 3: https://www.fulcrum.org/concern/file_sets/05741t81z?locale=en
-- How eBird Changed Birding Forever: https://www.outsideonline.com/2419209/ebird-online-platform-app-birding
 
 ### Week 3 of Final Project work
 
