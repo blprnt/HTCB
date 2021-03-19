@@ -196,7 +196,7 @@ Walk the other way: pick a different spot to bird than you usually do, somewhere
 Alex Shepard (iNaturalist)
 
 
-Class 6 - 5/3/21 - Sattelites + Radar + Radio
+Class 6 - 5/3/21 - Satellites + Radar + Radio
 ------------
 
 ![image](https://user-images.githubusercontent.com/325363/110369004-bee1bc00-8017-11eb-8a38-b3058905ba0d.png)
@@ -227,9 +227,9 @@ In this class we'll look at how historical records can provide glimpses of the b
 
 ### Resources:
 
-Birders of Africa - TBA
-How Birding Lists of the Deceased Are Finding New Life on eBird - https://www.audubon.org/news/how-birding-lists-deceased-are-finding-new-life-ebird
-North American Bird Phenology Program - https://en.wikipedia.org/wiki/North_American_Bird_Phenology_Program
+- Birders of Africa - TBA
+- How Birding Lists of the Deceased Are Finding New Life on eBird - https://www.audubon.org/news/how-birding-lists-deceased-are-finding-new-life-ebird
+- North American Bird Phenology Program - https://en.wikipedia.org/wiki/North_American_Bird_Phenology_Program
 
 
 
