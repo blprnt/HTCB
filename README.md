@@ -82,6 +82,7 @@ Class 1 - 3/22/21 - Birding as a creative practice
 ### Resources:
 
 - How to Identify Birds: https://www.audubon.org/news/how-identify-birds
+- How to Mis-identify Birds with Grace and Dignity: https://www.audubon.org/news/birdist-rule-12-how-misidentify-bird-grace-and-dignity
 - Identification, Please (Helen McDonald): https://www.nytimes.com/2015/06/21/magazine/identification-please.html
 - Bird Cams: https://www.allaboutbirds.org/cams/
 - Feedwerwatch: https://feederwatch.org/
