@@ -81,7 +81,7 @@ Class 1 - 3/22/21 - Birding as a creative practice
 
 ### Resources:
 
-- Building Skills: The 4 Keys to Bird Identification: https://www.allaboutbirds.org/news/building-skills-the-4-keys-to-bird-identification/
+- How to Identify Birds: https://www.audubon.org/news/how-identify-birds
 - Identification, Please (Helen McDonald): https://www.nytimes.com/2015/06/21/magazine/identification-please.html
 - Bird Cams: https://www.allaboutbirds.org/cams/
 - Feedwerwatch: https://feederwatch.org/
