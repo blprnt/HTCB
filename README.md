@@ -160,6 +160,7 @@ Birding is as much an auditory experience as it is a visual one. Indeed, some be
 
 ### Resources:
 
+- Describing Variation in Bird Sounds: http://earbirding.com/blog/archives/category/describing-sounds
 - Sound Escapes Episode 1: Relearn the Art of Listening - https://www.birdnote.org/listen/birdnote-presents/relearn-art-listening
 - http://earbirding.com/blog/
 - Nocmig: A Beginner's Guide: https://www.bto.org/community/blog/nocmig-beginners-guide
