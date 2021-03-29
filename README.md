@@ -113,6 +113,7 @@ Birdwatching is closely bound to the enumeration of birds and the keeping of lis
 
 ### Resources:
 
+- https://www.nationalgeographic.com/animals/article/birds-are-crashing-into-nyc-buildings-and-records-numbers-are-being-rescued
 - https://www.trektellen.org/
 - https://netapp.audubon.org/cbcobservation/
 - https://www.nytimes.com/2018/05/31/science/warblers-canada-migration.html
