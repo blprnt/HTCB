@@ -121,7 +121,7 @@ Birdwatching is closely bound to the enumeration of birds and the keeping of lis
 
 ### Small Assignment (due next week): 
 
-Working in a group of 3 students: Pick a bird data set (small or large) and produce a representation of this data that does not primarily focus on the sense of sight. This could be a sonification, or a small sculpture, or a performance. Be prepared to share the project during the next class. 
+
 
 ### Birding challenge:
 
@@ -151,7 +151,9 @@ Focus on the females: Particularly during the spring, we can end up paying more 
 ## Guest Speakers:
 Shannon Curley & José Ramírez-Garofalo (Freshkills Park, Staten Island)
 
+## Small Assignment (Due Next Week):
 
+Pick a bird data set (small or large) and produce a visualization of the data. Be prepared to share it in class next week.
 
 Class 4 - 4/12/21 - Calls & Songs
 ------------
