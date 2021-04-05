@@ -117,6 +117,7 @@ Birdwatching is closely bound to the enumeration of birds and the keeping of lis
 - https://www.trektellen.org/
 - https://netapp.audubon.org/cbcobservation/
 - https://www.nytimes.com/2018/05/31/science/warblers-canada-migration.html
+- (NEW) https://arushisingh5545.medium.com/how-are-bird-migrations-visualized-b14bfbe3e1ae
 
 ### Small Assignment (due next week): 
 
