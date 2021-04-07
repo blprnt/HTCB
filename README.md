@@ -142,7 +142,7 @@ For more than a century, birds have been tracked through the analogue technique 
 
 ### Small Assignment (due next week): 
 
-- Through the first weeks of class, we will have discussed how to build a DIY instrument for recording Nocturnal Flight Calls. Some time over this week, set up your device overnight and record audio. Use Raven Lite (https://ravensoundsoftware.com/software/raven-lite/) to extract and identify flight calls (if any) in your recording. Be prepared to share your findings in class!
+
 
 ### Birding challenge: 
 
@@ -153,7 +153,7 @@ Shannon Curley & José Ramírez-Garofalo (Freshkills Park, Staten Island)
 
 ## Small Assignment (Due Next Week):
 
-Pick a bird data set (small or large) and produce a visualization of the data. Be prepared to share it in class next week.
+Pick a bird data set (small or large) and produce a simple visualization of the data. Be prepared to share it in class next week. This could be built in Glitch or another software platform, or can be produced in any kind of physical media.
 
 Class 4 - 4/12/21 - Calls & Songs
 ------------
@@ -180,6 +180,10 @@ Birding is as much an auditory experience as it is a visual one. Indeed, some be
 ### Birding challenge: 
 
 Eyes closed: Find a place in your patch where you can hear birds calling. Close your eyes for five or ten minutes and see how many different birds you can identify. Are there patterns in the way they are calling? 
+
+### Assignment
+
+Through the first weeks of class, we will have discussed how to build a DIY instrument for recording Nocturnal Flight Calls. Some time over this week, set up your device overnight and record audio. Use Raven Lite (https://ravensoundsoftware.com/software/raven-lite/) to extract and identify flight calls (if any) in your recording. Be prepared to share your findings in class after the break.
 
 Class 5 - 4/26/21 - Citizen Science
 ------------
