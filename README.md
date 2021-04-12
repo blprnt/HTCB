@@ -174,6 +174,10 @@ Birding is as much an auditory experience as it is a visual one. Indeed, some be
 - Bird Sounds (Manny Tan & Kyle McDonald): https://experiments.withgoogle.com/bird-sounds
 - The Wetland Project: http://wetlandproject.com/ra.php
 
+- [NEW] Android sound apps: https://www.macaulaylibrary.org/resources/setting-up-recording-apps/setting-up-recording-apps-for-android-devices/?doing_wp_cron=1618224469.2255311012268066406250#HiRes
+- [NEW] iOS: https://www.macaulaylibrary.org/resources/setting-up-recording-apps/setting-up-recording-apps-for-ios-devices/
+- [NEW] Birdnet API: https://birdnet.cornell.edu/api/
+- [NEW] Raven Download: http://ravensoundsoftware.com/software/
 
 ### Week 1 of Final Project work
 
