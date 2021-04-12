@@ -178,6 +178,7 @@ Birding is as much an auditory experience as it is a visual one. Indeed, some be
 - [NEW] iOS: https://www.macaulaylibrary.org/resources/setting-up-recording-apps/setting-up-recording-apps-for-ios-devices/
 - [NEW] Birdnet API: https://birdnet.cornell.edu/api/
 - [NEW] Raven Download: http://ravensoundsoftware.com/software/
+- [NEW] So Wylie: https://twitter.com/sowylie/status/1358826721097752580?lang=en
 
 ### Week 1 of Final Project work
 
