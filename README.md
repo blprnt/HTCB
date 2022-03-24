@@ -1,4 +1,4 @@
-How to Count Birds - ITP, Spring 2021
+How to Count Birds - ITP, Spring 2022
 =======================
 
 ![image](https://user-images.githubusercontent.com/325363/110368760-7b874d80-8017-11eb-9d38-6cce91b3b218.png)
@@ -6,7 +6,7 @@ How to Count Birds - ITP, Spring 2021
 Jer Thorp (jer@ocr.nyc)
 Pronouns: He/Him
 
-Office Hours: Mondays, 1pm - 3pm
+Office Hours: Tuesdays, 1pm - 3pm
 
 Sign-up: https://calendly.com/jerthorp
 
@@ -52,11 +52,8 @@ And it will probably remain so for the rest of the course. I expect things to ch
 
 ## Class Structure
 
-Every week, our class time can expect to be divided roughly as follows:
+We'll meet weekly at ITP. The first class will be a birding walk, at Green-Wood Cemetery.
 
-- 1 hour birding in your own neighbourhood
-- 1 hour together on Zoom
-- 1 hour working on asynchonous course materials
 
 ## Course-spanning resources
 
