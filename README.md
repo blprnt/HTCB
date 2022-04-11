@@ -125,12 +125,12 @@ Birds & Data part 2
 
 ### Resources:
 
+- https://www.audubon.org/conservation/science/christmas-bird-count
+- https://www.allaboutbirds.org/cams/
 - What Scientists Have Learned from 100 Years of Banding: https://www.scientificamerican.com/article/what-scientists-have-learned-from-100-years-of-bird-banding/
 - USGS Bird Banding Lab: https://www.usgs.gov/centers/pwrc/science/bird-banding-laboratory?qt-science_center_objects=0#qt-science_center_objects
 - Banding Ethics: https://sora.unm.edu/sites/default/files/EN_32-5_243-246.pdf
-
-### Small Assignment (due next week): 
-
+- A Centrifuge of Calculation: Managing Data and Enthusiasm in Early Twentieth-Century Bird Banding: https://www.journals.uchicago.edu/doi/full/10.1086/694172
 
 ### Birding challenge:
 
@@ -171,10 +171,6 @@ Birding is as much an auditory experience as it is a visual one. Indeed, some be
 
 Eyes closed: Find a place in your patch where you can hear birds calling. Close your eyes for five or ten minutes and see how many different birds you can identify. Are there patterns in the way they are calling? 
 
-### Assignment
-
-Through the first weeks of class, we will have discussed how to build a DIY instrument for recording Nocturnal Flight Calls. Some time over this week, set up your device overnight and record audio. Use Raven Lite (https://ravensoundsoftware.com/software/raven-lite/) to extract and identify flight calls (if any) in your recording. Be prepared to share your findings in class after the break.
-
 Class 5 - 4/29/22 - Citizen Science
 ------------
 
@@ -194,7 +190,7 @@ On 9 May 2020, 50,000 birders submitted 120,000 checklists from 175 countries to
 Walk the other way: pick a different spot to bird than you usually do, somewhere that might feel unfamilar to you. In what ways does this change the way you observe? 
 
 ## Guest Speaker:
-Alex Shepard (iNaturalist)
+TBA
 
 
 Class 6 - 5/2/22 - Satellites + Radar + Radio
