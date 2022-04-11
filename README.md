@@ -50,6 +50,7 @@ And it will probably remain so for the rest of the course. I expect things to ch
 
 # Glitch projects:
 * https://glitch.com/edit/#!/htcb-bird-charts
+* https://glitch.com/edit/#!/htcb-vega-lite
 
 ## Class Structure
 
