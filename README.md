@@ -6,7 +6,8 @@ How to Count Birds - ITP, Spring 2022
 Jer Thorp (jer@ocr.nyc)
 Pronouns: He/Him
 
-Office Hours: Tuesdays, 1pm - 3pm
+Mondays, 3:00 - 4pm
+(Weekday mornings at 9am also possible)
 
 Sign-up: https://calendly.com/jerthorp
 
@@ -47,12 +48,12 @@ And it will probably remain so for the rest of the course. I expect things to ch
 
 (vi) I am 100% dedicated to a inclusive, harassment-free experience for everyone regardless of gender, race, sexual orientation, disability, appearance, or religion. I will not tolerate harassment of class participants in any form. I will address you by your name and pronouns. Your health and well being is my first concern, and I will do my best not to add to the over-stressed conditions that programs like ITP unfortunately cultivate.
 
-# Glitch collection
-* Glitch collection: https://glitch.com/@blprnt/how-to-count-birds
+# Glitch projects:
+* https://glitch.com/edit/#!/htcb-bird-charts
 
 ## Class Structure
 
-We'll meet weekly at ITP. The first class will be a birding walk, at Green-Wood Cemetery.
+We'll meet weekly at ITP. The first class will be a birding walk, at Green-Wood Cemetery. All other classes will be in the classroom!
 
 
 ## Course-spanning resources
@@ -64,17 +65,12 @@ We'll meet weekly at ITP. The first class will be a birding walk, at Green-Wood 
 - Grouse! podcast: Grouse podcast - https://www.npr.org/podcasts/913607568/grouse
 
 
-Class 1 - 3/22/21 - Birding as a creative practice
+Class 1 - 3/28/22 - Birding as a creative practice
 ------------
 
-![image](https://user-images.githubusercontent.com/325363/110333490-9fcf3400-7fef-11eb-98da-4337c74145a6.png)
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Green-Wood_Cemetery_gate_%2853784p%29_cropped.jpg/1920px-Green-Wood_Cemetery_gate_%2853784p%29_cropped.jpg)
 
-
-- Introductions + class instructions
-- Collaborative discussion on course goals + outcomes
-- Why birding? Why birds? 
-- FeederWatch
-- DIY Nocmig instruments: introduction
+- Birding walk at Green-Wood Cemetery with Ryan Mandelbaum. 
 
 ### Resources:
 
@@ -85,11 +81,25 @@ Class 1 - 3/22/21 - Birding as a creative practice
 - Feedwerwatch: https://feederwatch.org/
 - Live Bird Migration App: https://birdcast.info/migration-tools/live-migration-maps/
 
-### Small Assignment (due next week): 
+Class 2 - 4/4/22 - Birds & Data
+------------
 
-1st Day: Spend some time looking at the Cornell Labs feeder cams and choose one that you are interested in (and is active in your time zone!). Develop a methodology for counting that is not only about counting individual birds. (ie. colour, flight direction, type of food, size, etc.) Your technique should *not* include Computer Vision approaches. 
+![image](https://user-images.githubusercontent.com/325363/110333282-6a2a4b00-7fef-11eb-826b-f7a25bcf0334.png)
 
-2nd Day: Spend 45 minutes to an hour counting using your methodology. Be ready to share your results next class.
+Birdwatching is closely bound to the enumeration of birds and the keeping of lists. In this class we'll examine several bird counting projects (past and present) and will use discussion about feeder-watching  to discuss what different methods of counting necessarily include and exclude. We'll also show a series of data visualizations and other artworks and interventaions based on bird data. 
+
+- Introductions + class instructions
+- Collaborative discussion on course goals + outcomes
+- Why birding? Why birds? 
+
+
+### Resources:
+
+- https://www.nationalgeographic.com/animals/article/birds-are-crashing-into-nyc-buildings-and-records-numbers-are-being-rescued
+- https://www.trektellen.org/
+- https://netapp.audubon.org/cbcobservation/
+- https://www.nytimes.com/2018/05/31/science/warblers-canada-migration.html
+- (NEW) https://arushisingh5545.medium.com/how-are-bird-migrations-visualized-b14bfbe3e1ae
 
 ### Birding challenge:
 
@@ -101,35 +111,17 @@ Tips for beginner birders:
 - Look up these birds in advance. Watching videos and playing calls is very helpful. Remember, in the spring most birds will be singing.
 - You don't have to travel far! Find a park (even a small one) or a wild area that's within comfortable walking distance and adopt it as your 'patch'.
 
-Class 2 - 3/29/21 - Birds & Data
-------------
-
-![image](https://user-images.githubusercontent.com/325363/110333282-6a2a4b00-7fef-11eb-826b-f7a25bcf0334.png)
-
-Birdwatching is closely bound to the enumeration of birds and the keeping of lists. In this class we'll examine several bird counting projects (past and present) and will use our feeder-watching experiences to discuss what different methods of counting necessarily include and exclude. We'll also show a series of data visualizations based on bird data. 
-
-### Resources:
-
-- https://www.nationalgeographic.com/animals/article/birds-are-crashing-into-nyc-buildings-and-records-numbers-are-being-rescued
-- https://www.trektellen.org/
-- https://netapp.audubon.org/cbcobservation/
-- https://www.nytimes.com/2018/05/31/science/warblers-canada-migration.html
-- (NEW) https://arushisingh5545.medium.com/how-are-bird-migrations-visualized-b14bfbe3e1ae
-
-### Small Assignment (due next week): 
 
 
-
-### Birding challenge:
-
-Watch one bird: Spend as much time as you can observing a single bird. What do you notice about its behaviour? 
-
-Class 3 - 4/5/21 - Banding & Bird Bodies
+Class 3 - 4/11/21 - Birds & Data 2 
 ------------
 
 ![image](https://user-images.githubusercontent.com/325363/110368886-9eb1fd00-8017-11eb-9a97-f9cc4596166e.png)
 
-For more than a century, birds have been tracked through the analogue technique of banding. In this class, we'll hear from two ornithologists about their work at Staten Island's Freshkills park. We'll also investigate historical practices of banding and look at datasets involving banding data.
+- FeederWatch
+- DIY Nocmig instruments: introduction
+
+Birds & Data part 2
 
 ### Resources:
 
@@ -140,19 +132,15 @@ For more than a century, birds have been tracked through the analogue technique 
 ### Small Assignment (due next week): 
 
 
+### Birding challenge:
 
-### Birding challenge: 
-
-Focus on the females: Particularly during the spring, we can end up paying more attention to the bright feathers and loud song of male birds. Today, focus on the females. What subtle patterns can you find in their plumage? How does this change in your attention change your experience of birding?
-
-## Guest Speakers:
-Shannon Curley & José Ramírez-Garofalo (Freshkills Park, Staten Island)
+Watch one bird: Spend as much time as you can observing a single bird. What do you notice about its behaviour? 
 
 ## Small Assignment (Due Next Week):
 
 Pick a bird data set (small or large) and produce a simple visualization of the data. Be prepared to share it in class next week. This could be built in Glitch or another software platform, or can be produced in any kind of physical media.
 
-Class 4 - 4/12/21 - Calls & Songs
+Class 4 - 4/18/22 - Calls & Songs
 ------------
 
 Birding is as much an auditory experience as it is a visual one. Indeed, some behaviours of birds can only be observed by listening. In this class we'll focus on Nocturnal Flight Calls - the sounds that birds make when migrating high in the air at night. We'll look at techniques for DIY 'nocmig' recordings and will look at creative uses of sound in eco-focused creative practices. 
@@ -187,7 +175,7 @@ Eyes closed: Find a place in your patch where you can hear birds calling. Close 
 
 Through the first weeks of class, we will have discussed how to build a DIY instrument for recording Nocturnal Flight Calls. Some time over this week, set up your device overnight and record audio. Use Raven Lite (https://ravensoundsoftware.com/software/raven-lite/) to extract and identify flight calls (if any) in your recording. Be prepared to share your findings in class after the break.
 
-Class 5 - 4/26/21 - Citizen Science
+Class 5 - 4/29/22 - Citizen Science
 ------------
 
 On 9 May 2020, 50,000 birders submitted 120,000 checklists from 175 countries to eBird. Over the entire year, users of iNaturalist recorded 22.5M observations of 194,000 species. These data offer an invaluable resource to scientists, who are able to extend the range of their research by leaps and bounds. There are massive challenges inherent in these projects, though: how do you confirm that people are making the correct IDs? How do the biases of citizen scientists reflect in the data they collect and submit? How do you balance the goals of a citizen science project with the needs and preferences of 'users'?
@@ -209,7 +197,7 @@ Walk the other way: pick a different spot to bird than you usually do, somewhere
 Alex Shepard (iNaturalist)
 
 
-Class 6 - 5/3/21 - Satellites + Radar + Radio
+Class 6 - 5/2/22 - Satellites + Radar + Radio
 ------------
 
 ![image](https://user-images.githubusercontent.com/325363/110369004-bee1bc00-8017-11eb-8a38-b3058905ba0d.png)
@@ -229,7 +217,7 @@ Every day during the spring and fall migrations in North America, BirdCast provi
 Slow down: purposely walk at 1/2 of your usual pace. How does this shift your experience? Did you end up counting more or fewer birds?
 
 
-Class 7 - 5/10/21 - Birding Backwards
+Class 7 - 5/9/22 - Birding Backwards
 ------------
 
 ![image](https://user-images.githubusercontent.com/325363/110470995-91455300-80a9-11eb-8c8e-55639186f00f.png)
