@@ -125,6 +125,9 @@ Birds & Data part 2
 
 ### Resources:
 
+- Birding & Data Map: https://ideaflip.com/b/wqh25b39ppwe/
+- Birding & Data Key: https://docs.google.com/spreadsheets/d/19CjZfhC7UIvg6IaVz0e3z2F4thkg45qyXNDkG_0Oe1s/edit?usp=sharing
+- Glitch Vega Example: https://glitch.com/edit/#!/htcb-vega-lite
 - https://www.audubon.org/conservation/science/christmas-bird-count
 - https://www.allaboutbirds.org/cams/
 - What Scientists Have Learned from 100 Years of Banding: https://www.scientificamerican.com/article/what-scientists-have-learned-from-100-years-of-bird-banding/
