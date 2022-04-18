@@ -52,6 +52,7 @@ And it will probably remain so for the rest of the course. I expect things to ch
 * https://glitch.com/edit/#!/htcb-bird-charts
 * https://glitch.com/edit/#!/htcb-vega-lite
 * https://glitch.com/edit/#!/htcb-bird-chart-2
+* https://glitch.com/edit/#!/htcb-xeno-canto
 
 ## Class Structure
 
