@@ -51,6 +51,7 @@ And it will probably remain so for the rest of the course. I expect things to ch
 # Glitch projects:
 * https://glitch.com/edit/#!/htcb-bird-charts
 * https://glitch.com/edit/#!/htcb-vega-lite
+* https://glitch.com/edit/#!/htcb-bird-chart-2
 
 ## Class Structure
 
@@ -154,6 +155,7 @@ Birding is as much an auditory experience as it is a visual one. Indeed, some be
 
 ### Resources:
 
+- Xeno-Canto: https://xeno-canto.org/
 - Describing Variation in Bird Sounds: http://earbirding.com/blog/archives/category/describing-sounds
 - Sound Escapes Episode 1: Relearn the Art of Listening - https://www.birdnote.org/listen/birdnote-presents/relearn-art-listening
 - http://earbirding.com/blog/
@@ -164,11 +166,12 @@ Birding is as much an auditory experience as it is a visual one. Indeed, some be
 - Bird Sounds (Manny Tan & Kyle McDonald): https://experiments.withgoogle.com/bird-sounds
 - The Wetland Project: http://wetlandproject.com/ra.php
 
-- [NEW] Android sound apps: https://www.macaulaylibrary.org/resources/setting-up-recording-apps/setting-up-recording-apps-for-android-devices/?doing_wp_cron=1618224469.2255311012268066406250#HiRes
-- [NEW] iOS: https://www.macaulaylibrary.org/resources/setting-up-recording-apps/setting-up-recording-apps-for-ios-devices/
-- [NEW] Birdnet API: https://birdnet.cornell.edu/api/
-- [NEW] Raven Download: http://ravensoundsoftware.com/software/
-- [NEW] So Wylie: https://twitter.com/sowylie/status/1358826721097752580?lang=en
+- Android sound apps: https://www.macaulaylibrary.org/resources/setting-up-recording-apps/setting-up-recording-apps-for-android-devices/?doing_wp_cron=1618224469.2255311012268066406250#HiRes
+- iOS: https://www.macaulaylibrary.org/resources/setting-up-recording-apps/setting-up-recording-apps-for-ios-devices/
+- Birdnet API: https://birdnet.cornell.edu/api/
+- Raven Download: http://ravensoundsoftware.com/software/
+- So Wylie: https://twitter.com/sowylie/status/1358826721097752580?lang=en
+- https://www.macaulaylibrary.org/resources/
 
 ### Week 1 of Final Project work
 
