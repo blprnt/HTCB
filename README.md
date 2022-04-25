@@ -67,6 +67,7 @@ We'll meet weekly at ITP. The first class will be a birding walk, at Green-Wood 
 - Vesper Flights (Helen Macdonald): https://groveatlantic.com/book/vesper-flights/
 - The Sibley Guide to Birds (David Allen Sibley): https://bookshop.org/books/the-sibley-guide-to-birds/9780307957900
 - Grouse! podcast: Grouse podcast - https://www.npr.org/podcasts/913607568/grouse
+- BirdCast data dashboard: https://dashboard.birdcast.info/region/US-NY-047
 
 
 Class 1 - 3/28/22 - Birding as a creative practice
