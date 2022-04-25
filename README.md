@@ -53,6 +53,7 @@ And it will probably remain so for the rest of the course. I expect things to ch
 * https://glitch.com/edit/#!/htcb-vega-lite
 * https://glitch.com/edit/#!/htcb-bird-chart-2
 * https://glitch.com/edit/#!/htcb-xeno-canto
+* https://glitch.com/edit/#!/htcb-ebirdapi
 
 ## Class Structure
 
@@ -191,6 +192,7 @@ On 9 May 2020, 50,000 birders submitted 120,000 checklists from 175 countries to
 
 - How eBird Changed Birding Forever: https://www.outsideonline.com/2419209/ebird-online-platform-app-birding
 - https://citynaturechallenge.org/
+- https://www.audubon.org/news/when-you-should-and-should-not-rescue-baby-birds
 
 ### Week 2 of Final Project work
 
