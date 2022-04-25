@@ -193,6 +193,8 @@ On 9 May 2020, 50,000 birders submitted 120,000 checklists from 175 countries to
 ### Resources:
 
 - How eBird Changed Birding Forever: https://www.outsideonline.com/2419209/ebird-online-platform-app-birding
+- eBird API: https://documenter.getpostman.com/view/664302/S1ENwy59
+- WikiData SparQL explorer: https://query.wikidata.org/
 - https://citynaturechallenge.org/
 - https://www.audubon.org/news/when-you-should-and-should-not-rescue-baby-birds
 
