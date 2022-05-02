@@ -222,6 +222,7 @@ Every day during the spring and fall migrations in North America, BirdCast provi
 - https://birdcast.info/about/weather-surveillance-radar-and-bird-migration-primer/
 - https://birdcast.info/news/mistnet-measuring-historical-bird-migration-in-the-us-using-archived-weather-radar-data-and-convolutional-neural-networks/
 - Lightning Birds: Episode 3: https://www.fulcrum.org/concern/file_sets/05741t81z?locale=en
+- Birds or bugs? https://twitter.com/radarandstuff/status/1043575880054988800
 
 ### Week 3 of Final Project work
 
