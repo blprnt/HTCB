@@ -54,6 +54,7 @@ And it will probably remain so for the rest of the course. I expect things to ch
 * https://glitch.com/edit/#!/htcb-bird-chart-2
 * https://glitch.com/edit/#!/htcb-xeno-canto
 * https://glitch.com/edit/#!/htcb-ebirdapi
+* https://glitch.com/edit/#!/htcb-gull-paths
 
 ## Class Structure
 
