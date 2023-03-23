@@ -1,4 +1,4 @@
-How to Count Birds - ITP, Spring 2022
+How to Count Birds - ITP, Spring 2023
 =======================
 
 ![image](https://user-images.githubusercontent.com/325363/110368760-7b874d80-8017-11eb-9d38-6cce91b3b218.png)
@@ -6,8 +6,7 @@ How to Count Birds - ITP, Spring 2022
 Jer Thorp (jer@ocr.nyc)
 Pronouns: He/Him
 
-Mondays, 3:00 - 4pm
-(Weekday mornings at 9am also possible)
+Tuesdays, 9:00 - 4pm
 
 Sign-up: https://calendly.com/jerthorp
 
@@ -71,7 +70,29 @@ We'll meet weekly at ITP. The first class will be a birding walk, at Green-Wood 
 - BirdCast data dashboard: https://dashboard.birdcast.info/region/US-NY-047
 
 
-Class 1 - 3/28/22 - Birding as a creative practice
+Class 1 - 3/23/23 - Class Intro + Birds & Data
+------------
+
+![image](https://user-images.githubusercontent.com/325363/110333282-6a2a4b00-7fef-11eb-826b-f7a25bcf0334.png)
+
+Birdwatching is closely bound to the enumeration of birds and the keeping of lists. In this class we'll examine several bird counting projects (past and present) and will use discussion about feeder-watching  to discuss what different methods of counting necessarily include and exclude. We'll also show a series of data visualizations and other artworks and interventaions based on bird data. 
+
+- Introductions + class instructions
+- Collaborative discussion on course goals + outcomes
+- Why birding? Why birds? 
+
+
+### Birding challenge:
+
+Just get out there!
+
+Tips for beginner birders:
+
+- Find a eBird hotspot near you (https://ebird.org/hotspots) and see what has been seen recently. You don't have to go to that place, but the list should give you an idea of waht birds are currently around
+- Look up these birds in advance. Watching videos and playing calls is very helpful. Remember, in the spring most birds will be singing.
+- You don't have to travel far! Find a park (even a small one) or a wild area that's within comfortable walking distance and adopt it as your 'patch'.
+
+Class 2 - 3/30/22 - Let's go birding!
 ------------
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Green-Wood_Cemetery_gate_%2853784p%29_cropped.jpg/1920px-Green-Wood_Cemetery_gate_%2853784p%29_cropped.jpg)
@@ -87,16 +108,6 @@ Class 1 - 3/28/22 - Birding as a creative practice
 - Feedwerwatch: https://feederwatch.org/
 - Live Bird Migration App: https://birdcast.info/migration-tools/live-migration-maps/
 
-Class 2 - 4/4/22 - Birds & Data
-------------
-
-![image](https://user-images.githubusercontent.com/325363/110333282-6a2a4b00-7fef-11eb-826b-f7a25bcf0334.png)
-
-Birdwatching is closely bound to the enumeration of birds and the keeping of lists. In this class we'll examine several bird counting projects (past and present) and will use discussion about feeder-watching  to discuss what different methods of counting necessarily include and exclude. We'll also show a series of data visualizations and other artworks and interventaions based on bird data. 
-
-- Introductions + class instructions
-- Collaborative discussion on course goals + outcomes
-- Why birding? Why birds? 
 
 
 ### Resources:
@@ -107,19 +118,10 @@ Birdwatching is closely bound to the enumeration of birds and the keeping of lis
 - https://www.nytimes.com/2018/05/31/science/warblers-canada-migration.html
 - (NEW) https://arushisingh5545.medium.com/how-are-bird-migrations-visualized-b14bfbe3e1ae
 
-### Birding challenge:
-
-Just get out there!
-
-Tips for beginner birders:
-
-- Find a eBird hotspot near you (https://ebird.org/hotspots) and see what has been seen recently. You don't have to go to that place, but the list should give you an idea of waht birds are currently around
-- Look up these birds in advance. Watching videos and playing calls is very helpful. Remember, in the spring most birds will be singing.
-- You don't have to travel far! Find a park (even a small one) or a wild area that's within comfortable walking distance and adopt it as your 'patch'.
 
 
 
-Class 3 - 4/11/21 - Birds & Data 2 
+Class 3 - 4/6/23 - Birds & Data 2 
 ------------
 
 ![image](https://user-images.githubusercontent.com/325363/110368886-9eb1fd00-8017-11eb-9a97-f9cc4596166e.png)
@@ -150,7 +152,7 @@ Watch one bird: Spend as much time as you can observing a single bird. What do y
 
 Pick a bird data set (small or large) and produce a simple visualization of the data. Be prepared to share it in class next week. This could be built in Glitch or another software platform, or can be produced in any kind of physical media.
 
-Class 4 - 4/18/22 - Calls & Songs
+Class 4 - 4/13/23 - Calls & Songs
 ------------
 
 Birding is as much an auditory experience as it is a visual one. Indeed, some behaviours of birds can only be observed by listening. In this class we'll focus on Nocturnal Flight Calls - the sounds that birds make when migrating high in the air at night. We'll look at techniques for DIY 'nocmig' recordings and will look at creative uses of sound in eco-focused creative practices. 
@@ -186,7 +188,7 @@ Birding is as much an auditory experience as it is a visual one. Indeed, some be
 
 Eyes closed: Find a place in your patch where you can hear birds calling. Close your eyes for five or ten minutes and see how many different birds you can identify. Are there patterns in the way they are calling? 
 
-Class 5 - 4/29/22 - Citizen Science
+Class 5 - 4/20/23 - Citizen Science
 ------------
 
 On 9 May 2020, 50,000 birders submitted 120,000 checklists from 175 countries to eBird. Over the entire year, users of iNaturalist recorded 22.5M observations of 194,000 species. These data offer an invaluable resource to scientists, who are able to extend the range of their research by leaps and bounds. There are massive challenges inherent in these projects, though: how do you confirm that people are making the correct IDs? How do the biases of citizen scientists reflect in the data they collect and submit? How do you balance the goals of a citizen science project with the needs and preferences of 'users'?
@@ -211,7 +213,7 @@ Walk the other way: pick a different spot to bird than you usually do, somewhere
 TBA
 
 
-Class 6 - 5/2/22 - Satellites + Radar + Radio
+Class 6 - 4/27/23 - Satellites + Radar + Radio
 ------------
 
 ![image](https://user-images.githubusercontent.com/325363/110369004-bee1bc00-8017-11eb-8a38-b3058905ba0d.png)
@@ -232,7 +234,7 @@ Every day during the spring and fall migrations in North America, BirdCast provi
 Slow down: purposely walk at 1/2 of your usual pace. How does this shift your experience? Did you end up counting more or fewer birds?
 
 
-Class 7 - 5/9/22 - Birding Backwards
+Class 7 - 5/4/22 - Birding Backwards
 ------------
 
 ![image](https://user-images.githubusercontent.com/325363/110470995-91455300-80a9-11eb-8c8e-55639186f00f.png)
